@@ -6,7 +6,7 @@ The project uses the M5 Forecasting dataset, consisting of historical Walmart sa
 
 ## 2. Data Sources
 
-| Dataset | Description |
+| Dataset | Description | 
 |---|---|
 | sales_train_validation | Historical daily product sales |
 | calendar | Dates, events, SNAP indicators |
