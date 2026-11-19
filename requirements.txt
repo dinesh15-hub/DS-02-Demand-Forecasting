@@ -1,4 +1,3 @@
-
 # Core data processing
 numpy
 pandas
@@ -37,3 +36,4 @@ ortools
 jupyter
 ipykernel
 tqdm
+requests
