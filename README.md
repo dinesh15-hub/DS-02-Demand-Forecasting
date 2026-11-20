@@ -1,3 +1,5 @@
+![Demand Forecasting and Inventory Optimization banner](docs/screenshots/banner.png)
+
 # Nationwide Demand Forecasting and Inventory Optimization
 
 **Nexvia Technologies | DS-02 Project**
@@ -207,7 +209,7 @@ DS-02-Demand-Forecasting/
 
 ## Project Status
 
-**In Development – DS-02 | Nexvia Technologies**
+**Completed – DS-02 Final Submission | Nexvia Technologies**
 
 ---
 
