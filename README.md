@@ -144,7 +144,7 @@ Evaluation protocols and forecast horizons are documented separately so that com
 
 ```bash
 # 1. Clone the repository and install dependencies
-git clone <your-repository-url>
+git clone https://github.com/dinesh15-hub/DS-02-Demand-Forecasting.git
 cd DS-02-Demand-Forecasting
 pip install -r requirements.txt
 
